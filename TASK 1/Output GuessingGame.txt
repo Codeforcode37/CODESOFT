@@ -1,0 +1,17 @@
+"C:\Program Files\Java\jdk-20\bin\java.exe" "-javaagent:C:\Program Files\Broadcom\CV\IntelliJ IDEA Community Edition 2023.1\lib\idea_rt.jar=61688:C:\Program Files\Broadcom\CV\IntelliJ IDEA Community Edition 2023.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\Haha CORPORATION\IdeaProjects\JAVA_PROGRAMMING\out\production\JAVA_PROGRAMMING" GuessingGame
+Welcome to the Guessing Game!
+I have selected a number between 1 and 100. Try to guess it.
+Enter your guess: 50
+Too low! Try again.
+Enter your guess: 60
+Too low! Try again.
+Enter your guess: 70
+Too high! Try again.
+Enter your guess: 65
+Too high! Try again.
+Enter your guess: 63
+Too low! Try again.
+Enter your guess: 64
+Congratulations! You guessed the correct number in 6 attempts.
+
+Process finished with exit code 0
