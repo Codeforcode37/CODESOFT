@@ -1,0 +1,14 @@
+PS C:\Users\digvi\OneDrive\Desktop\Task_2> javac GradeCalculator.java
+PS C:\Users\digvi\OneDrive\Desktop\Task_2> java GradeCalculator
+Welcome to the Grade Calculator!
+Enter the number of subjects: 5
+Enter marks for Subject 1: 87
+Enter marks for Subject 2: 78
+Enter marks for Subject 3: 88
+Enter marks for Subject 4: 76
+Enter marks for Subject 5: 55
+
+Results:
+Total Marks: 384
+Average Percentage: 76.80%
+Grade: C
